@@ -7,6 +7,7 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {
             int a;
+            int t;
             Console.WriteLine("блаблабла");
         }
     }
