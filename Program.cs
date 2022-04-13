@@ -9,6 +9,7 @@ namespace ConsoleApp8
             int a;
             int t;
             Console.WriteLine("блаблабла");
+            // cooment
         }
     }
 }
